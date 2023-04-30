@@ -1,0 +1,17 @@
+pistes 1
+A 1 2.0
+-
+-
+G# 9 2.0
+silence
+
+pistes 3
+silence
+-
+A 1 2.0
+-
+-
+-
+C# 9 2.0
+
+

@@ -1,0 +1,37 @@
+instrument
+triangle 0.2 0.5 0.25    1.0 0.0
+pulse    0.2 0.7 0.35    0.5 0.0
+instrument
+triangle 0.1 0.5 0.25    1.0 0.0
+pulse    0.1 0.7 0.35    0.5 0.0
+instrument
+triangle 0.05 0.5 0.25    1.0 0.0
+pulse    0.05 0.7 0.35    0.5 0.0
+instrument
+sin      0.0 0.0 0.025 0.0
+instrument
+triangle 0.054 0.7 0.0     0.93 0.0
+triangle 0.031 0.7 0.0     0.87 0.50
+triangle 0.042 0.7 0.0     0.76 0.82
+triangle 0.012 0.7 0.0     0.62 0.15
+triangle 0.032 0.7 0.0     0.52 0.34
+triangle 0.002 0.7 0.0     0.45 0.94
+triangle 0.042 0.7 0.0     0.28 0.24
+triangle 0.025 0.7 0.0     0.09 0.04
+instrument
+triangle 0.054 0.7 0.01     0.93 0.0
+triangle 0.031 0.7 0.01     0.87 0.50
+triangle 0.042 0.7 0.01     0.76 0.82
+triangle 0.012 0.7 0.01     0.62 0.15
+triangle 0.032 0.7 0.01     0.52 0.34
+triangle 0.002 0.7 0.01     0.45 0.94
+triangle 0.042 0.7 0.01     0.28 0.24
+triangle 0.025 0.7 0.01     0.09 0.04
+triangle 0.051 0.7 0.01     0.95 0.05
+triangle 0.021 0.7 0.01     0.27 0.52
+triangle 0.044 0.7 0.01     0.77 0.72
+triangle 0.022 0.7 0.01     0.32 0.19
+triangle 0.035 0.7 0.01     0.58 0.24
+triangle 0.042 0.7 0.01     0.35 0.91
+triangle 0.048 0.7 0.01     0.24 0.74
+triangle 0.025 0.7 0.01     0.19 0.08
