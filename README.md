@@ -32,4 +32,4 @@ The program will generate the following output:
 
 # Important Note on Code Conventions
 
-Please be aware that in the source code for this program, variable names, function names, and comments are primarily written in French. We understand that this might pose some challenges for users who are not familiar with the French language. However, We have ensured that the user documentation, such as this README, is written in English for broader accessibility.
+Please be aware that in the source code for this program is primarily written in French. I understand that this might pose some challenges for users who are not familiar with the French language. However, I have ensured that the user documentation, such as this README, is written in English for broader accessibility.
